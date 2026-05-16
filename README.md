@@ -1,1 +1,3 @@
 # Heart-Failure-Prediction
+
+Este projeto tem como objetivo prever a probabilidade de uma pessoa desenvolver doenças cardíacas com base em informações clínicas como idade, sexo, colesterol, pressão arterial, frequência cardíaca máxima, entre outras variáveis médicas. Durante o desenvolvimento, foram realizadas etapas de análise exploratória dos dados, tratamento e codificação das variáveis categóricas, além da aplicação de um modelo de Machine Learning utilizando o algoritmo Decision Tree Classifier para realizar as previsões. O desempenho do modelo foi avaliado por meio de métricas de classificação, buscando identificar padrões relevantes relacionados às doenças cardíacas.
